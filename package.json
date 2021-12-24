@@ -1,13 +1,22 @@
 {
   "name": "study-blogs",
   "version": "1.0.0",
-  "description": "",
+  "description": "nihao",
   "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biggeryao/study-blogs.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biggeryao/study-blogs/issues"
+  },
+  "homepage": "https://github.com/biggeryao/study-blogs#readme"
 }
